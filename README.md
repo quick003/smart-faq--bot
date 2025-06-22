@@ -67,7 +67,7 @@ Use this tab to create new users.
 ┃ ┣ 📄 chroma.sqlite         # Vector DB
 ┃ ┣ 📁 index/                # Index files
 ┃ ┗ 📄 uploaded docs         # Original uploaded files
-
+```
 ## 🛠️ Customization Ideas
 
 - 👍 **Add a Feedback Button**  
